@@ -5,9 +5,11 @@
 | ------- | ---------- |
 | Jetpack CameraX | [CameraX][PRCX] |
 | ZXing QRScanner | [QRScanner][PRQR] |
+| NFC HCE Project | [NFCHCE][PRNH] |
 
    [PRCX]: <https://github.com/baymax1234/mobile_development/tree/master/CameraX>
    [PRQR]: <https://github.com/baymax1234/mobile_development/tree/master/QRScanner>
+   [PRNH]: <https://github.com/baymax1234/mobile_development/tree/master/NFCHCE>
 
 ### ReadMe
 
